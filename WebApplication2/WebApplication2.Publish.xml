@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Users\Kedar\Desktop\publish" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="07/22/2021 20:21:03" />
+    <file relUrl="Site.Master" publishTime="07/22/2021 20:19:47" />
+    <file relUrl="Account/ChangePassword.aspx" publishTime="07/22/2021 20:19:47" />
+    <file relUrl="Account/Register.aspx" publishTime="07/22/2021 20:19:47" />
+    <file relUrl="Account/Web.config" publishTime="07/22/2021 20:19:47" />
+    <file relUrl="Account/Login.aspx" publishTime="07/22/2021 20:19:47" />
+    <file relUrl="Styles/Site.css" publishTime="07/22/2021 20:19:47" />
+    <file relUrl="bin/WebApplication2.pdb" publishTime="07/22/2021 20:21:02" />
+    <file relUrl="bin/WebApplication2.dll" publishTime="07/22/2021 20:21:02" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="07/22/2021 20:19:47" />
+    <file relUrl="Global.asax" publishTime="07/22/2021 20:19:47" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="07/22/2021 20:19:47" />
+    <file relUrl="About.aspx" publishTime="07/22/2021 20:19:47" />
+    <file relUrl="Account/ChangePasswordSuccess.aspx" publishTime="07/22/2021 20:19:47" />
+    <file relUrl="Default.aspx" publishTime="07/22/2021 20:20:01" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="07/22/2021 20:19:47" />
+  </publishProfile>
+</publishData>
